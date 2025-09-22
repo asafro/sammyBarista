@@ -1,0 +1,11 @@
+# OpenRouter API Configuration
+# Get your API key from: https://openrouter.ai/
+OPENROUTER_API_KEY=your_openrouter_api_key_here
+
+# Optional: Specify a different model (see sammy_prompts.py for available models)
+# SAMMY_MODEL=anthropic/claude-3.5-sonnet
+
+# MongoDB Configuration (if different from defaults)
+# MONGODB_URL=mongodb://localhost:27017/
+# MONGODB_DATABASE=coffee_db
+# MONGODB_COLLECTION=coffees
